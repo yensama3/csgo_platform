@@ -2,18 +2,18 @@
 
 A Simple and Light CS : GO Platform With WebSite.
 
--[] Requirement Analysis
+- [] Requirement Analysis
 
--[] Front End
+- [] Front End
 
- -[] IndexPage
+  -[] IndexPage
 
- -[] UserPage
+  -[] UserPage
 
- -[] LoginPage
+  -[] LoginPage
 
- -[] SignUpPage
+  -[] SignUpPage
 
--[] Server Development
+- [] Server Development
 
--[] Back End
+- [] Back End
